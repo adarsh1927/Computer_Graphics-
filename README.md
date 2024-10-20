@@ -6,14 +6,17 @@ feed of curiosity
 ▶️  
 When you draw a smooth line in 2d graphics if you zoom you will find series of pixels make it and they are not smooth at all.  
 
-I am not talking about physical pixel i am talking about imaginary mathmaticle system or cordinates.
+I am not talking about physical pixel i am talking about imaginary mathematical system or coordinate.
 
-Over cordinate system is not bending actually it simply going straight in any direction (hieght, width, depth).
+Our cordinate system is not bending actually it simply going straight in hieght, width and depth.
 
-So in many visualization little box going every where but in uniform sequence if they are going left they will go straight
-if they are going up they will go straight if they going toward depth it also will be uniform depth.
+So in many visualization of coordinates there are small boxes or squares going everywhere but in a uniform order if they are going left they will go straight, if they are going up they will go straight if they are going deeper it will also be a uniform depth.
 
-Why not our cornate system bending over period of steps? May any alien civiliztation use that type of complecity in mathmatics
-but if we play that type of game we will loose.
+Why not our coordinate system bending over period of steps? May any alien civilization use that type of complexity in mathematics but if we play that type of game we will loose.
+
+
+
+
+
 
 

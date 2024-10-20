@@ -22,6 +22,7 @@ Why not our coordinate system bending over period of steps? May any alien civili
 **Calculation Need Resource**
 
 3D software doing more calculation than 2D software so they are designed to balance between output and calculation.  
+
 3D software is designed to keep in mind the challenge of resource consumption while achieving desired results.
 
 **vertext to pixel**

@@ -3,7 +3,7 @@ feed of curiosity
 ---
 ---
 ---
-⚫ why we need (vertext, edge, face) in 3D?
+⚫ Why we need (vertext, edge, face) in 3D?
 ---
 Ans:
 ---

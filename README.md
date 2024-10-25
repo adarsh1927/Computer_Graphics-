@@ -3,7 +3,7 @@ feed of curiosity
 ---
 ---
 ---
-⚫ When we can draw curvy lines in 2D program why not we can draw simply in 3D why we need (vertext, edge, face)?
+⚫ why we need (vertext, edge, face) in 3D?
 ---
 Ans:
 ---
